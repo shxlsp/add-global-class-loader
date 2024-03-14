@@ -1,6 +1,6 @@
 {
   "name": "add-global-class-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "为所有less/scss资源文件增加全局类",
   "main": "./src/index.js",
   "module": "./src/index.js",
